@@ -15,6 +15,7 @@ using System.Windows.Shapes;
 
 namespace ImagegGetTest
 {
+
     /// <summary>
     /// MainWindow.xaml の相互作用ロジック
     /// </summary>
